@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@tailwind utilities;
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+html, body, #root { height: 100%; }
+.leaflet-container { height: 100%; width: 100%; }
