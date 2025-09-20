@@ -57,14 +57,16 @@ Real-time earthquake data provided by the [United States Geological Survey (USGS
 <details>
 <summary>📸 Click to view screenshots</summary>
 
-### Desktop View
-![Desktop Screenshot](https://via.placeholder.com/800x500/f3f4f6/6b7280?text=Desktop+View)
+### Picture 1
+<img width="1366" height="728" alt="1" src="https://github.com/user-attachments/assets/63d17e0c-517a-448e-ba37-a0c7284fd787" />
 
-### Mobile View
-![Mobile Screenshot](https://via.placeholder.com/400x600/f3f4f6/6b7280?text=Mobile+View)
+### Picture 2
+<img width="1366" height="728" alt="2" src="https://github.com/user-attachments/assets/7ce52b70-2959-4369-9865-7100bbea75f5" />
 
-### Dark Mode
-![Dark Mode Screenshot](https://via.placeholder.com/800x500/1f2937/f9fafb?text=Dark+Mode)
+
+### Picture 3
+<img width="1366" height="728" alt="3" src="https://github.com/user-attachments/assets/17c04491-53b0-45a4-8349-2fbb698633ed" />
+
 
 </details>
 
